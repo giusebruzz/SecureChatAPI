@@ -23,8 +23,10 @@ Endpoints principali:
 Auth:
 POST /auth/register
 POST /auth/login
+
 Conversazioni:
 GET /conversations/{conversationId}/messages
+
 Messaggi:
 POST /messages/send
 
