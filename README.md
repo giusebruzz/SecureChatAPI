@@ -32,6 +32,3 @@ Struttura database:
 - User
 - Conversation
 - Message
-
-✉️ Messaggi
-POST /messages/send
